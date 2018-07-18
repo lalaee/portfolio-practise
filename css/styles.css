@@ -1,0 +1,40 @@
+html {
+	font-family: Raleway;
+}
+
+#main {
+	margin: 0 auto;
+	margin-top: 45px;
+}
+
+#first-section {
+	justify-content: center;
+}
+
+#nav {
+	text-align: right;
+	margin-right: 60px;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+li {
+	list-style: none;
+	font-size: 35px;
+	opacity: 0.7;
+}
+
+#welcome-section {
+	height: 1424px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-weight: 300;
+	padding-top: 500px;
+}
+
